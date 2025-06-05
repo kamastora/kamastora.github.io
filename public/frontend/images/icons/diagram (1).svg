@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="127.991" viewBox="0 0 128 127.991">
+  <g id="diagram_1_" data-name="diagram (1)" transform="translate(0 -0.018)">
+    <g id="Group_7135" data-name="Group 7135" transform="translate(0 12.809)">
+      <path id="Path_5905" data-name="Path 5905" d="M42.667,51.182H70.4v4.267H42.667Z" transform="translate(-32 -51.182)" fill="#29485a"/>
+      <path id="Path_5906" data-name="Path 5906" d="M42.667,85.316H70.4v4.267H42.667Z" transform="translate(-32 -76.783)" fill="#29485a"/>
+      <path id="Path_5907" data-name="Path 5907" d="M42.667,119.449h19.2v4.267h-19.2Z" transform="translate(-32 -102.382)" fill="#29485a"/>
+      <path id="Path_5908" data-name="Path 5908" d="M42.667,153.582h19.2v4.267h-19.2Z" transform="translate(-32 -127.982)" fill="#29485a"/>
+      <path id="Path_5909" data-name="Path 5909" d="M0,494.916H128v4.267H0Z" transform="translate(0 -383.982)" fill="#29485a"/>
+    </g>
+    <g id="Group_7136" data-name="Group 7136" transform="translate(8.352 1.438)">
+      <path id="Path_5910" data-name="Path 5910" d="M33.771,100.271,33.408,96A113.847,113.847,0,0,0,131,20.3l5.12-14.6,4.028,1.408-5.12,14.6A118.116,118.116,0,0,1,33.771,100.271Z" transform="translate(-33.408 -5.7)" fill="#7c54c6"/>
+      <path id="Path_5911" data-name="Path 5911" d="M42.667,418.116H57.6v12.8H42.667Z" transform="translate(-40.352 -315.012)" fill="#7c54c6"/>
+    </g>
+    <path id="Path_5912" data-name="Path 5912" d="M136.533,392.516h14.933v19.2H136.533Z" transform="translate(-102.4 -294.374)" fill="#7c54c6"/>
+    <path id="Path_5913" data-name="Path 5913" d="M230.4,349.849h14.933v29.867H230.4Z" transform="translate(-172.8 -262.373)" fill="#7c54c6"/>
+    <path id="Path_5914" data-name="Path 5914" d="M324.267,290.116H339.2v44.8H324.267Z" transform="translate(-243.2 -217.574)" fill="#7c54c6"/>
+    <path id="Path_5915" data-name="Path 5915" d="M418.133,170.649h14.933v74.667H418.133Z" transform="translate(-313.6 -127.973)" fill="#7c54c6"/>
+    <path id="Path_5916" data-name="Path 5916" d="M403.2,21.342a2.132,2.132,0,0,1-1.92-1.18L393.7,5.016,378.55,12.6a2.134,2.134,0,0,1-1.907-3.819L393.709.244a2.134,2.134,0,0,1,2.863.954v0l8.533,17.067a2.133,2.133,0,0,1-1.91,3.076Z" transform="translate(-281.596 0)" fill="#7c54c6"/>
+  </g>
+</svg>
